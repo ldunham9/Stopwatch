@@ -1,0 +1,10 @@
+C:\Users\ldunh\source\repos\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\ldunh\source\repos\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\ldunh\source\repos\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\ldunh\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\ldunh\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+C:\Users\ldunh\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\ldunh\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.Cache
+C:\Users\ldunh\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\ldunh\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\ldunh\source\repos\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
